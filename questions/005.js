@@ -4,11 +4,10 @@
  * - The default value of color should be "pink"
  * - Car should implement a method "honk"
  * - The return of "honk" should be "Honk from color: [color]"
- * 
+ *
  * See test cases for clarification
  */
 
+// Write code here
 
- // Write code here
-
- export default Car;
+export default Car;
